@@ -46,3 +46,5 @@
 .vs/
 out/
 *.dbg
+*.ilk
+*.pdb
